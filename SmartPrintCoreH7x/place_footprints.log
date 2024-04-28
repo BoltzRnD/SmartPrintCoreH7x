@@ -1,0 +1,60 @@
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 405:Plugin executed on: 'win32'
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 406:Plugin executed with python version: '3.9.14 (main, Dec 23 2022, 23:36:19) [MSC v.1934 64 bit (AMD64)]'
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 407:KiCad build version: (6.0.11)
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 408:Plugin version: 1.2.12
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Frame repr: <wx._core.Frame object at 0x000001A2E3FFB670>
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C22 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C21 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW2 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C27 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C7 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C4 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R5 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C10 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C5 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C14 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C13 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint L1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C12 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C15 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C11 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C17 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C28 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C3 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Y1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C26 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C19 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C8 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C16 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R2 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C23 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C25 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C18 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C2 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C9 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C6 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C20 on root level
+07-14 14:32:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C24 on root level
+07-14 14:32:24 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 586:Reference designator is: U
+07-14 14:32:24 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 587:Reference number is: 11
+07-14 14:32:24 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 619:Sorted and filtered list:
+['U1', 'U2', 'U3', 'U4', 'U5', 'U6', 'U7', 'U8', 'U9', 'U10', 'U11', 'U12', 'U13', 'U14']
+07-14 14:32:35 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 657:Footprints to place:
+['U1', 'U2', 'U3', 'U4', 'U5', 'U6', 'U7', 'U8', 'U9', 'U10', 'U11', 'U12', 'U13', 'U14']
+07-14 14:32:35 com_github_MitjaNemec_PlaceFootprints.place_footprints 389:Starting placing with matrix layout
+07-14 14:32:35 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 730:Fatal error when executing place footprints
+Traceback (most recent call last):
+  File "C:\Users\yatin\OneDrive\Documents\KiCad\6.0\3rdparty\plugins\com_github_MitjaNemec_PlaceFootprints\action_place_footprints.py", line 725, in Run
+    placer.place_matrix(footprints_to_place, ref_fp_ref, step_x, step_y, nr_columns, step, rotation,
+  File "C:\Users\yatin\OneDrive\Documents\KiCad\6.0\3rdparty\plugins\com_github_MitjaNemec_PlaceFootprints\place_footprints.py", line 423, in place_matrix
+    self.replicate_fp_text_items(ref_fp, fp)
+  File "C:\Users\yatin\OneDrive\Documents\KiCad\6.0\3rdparty\plugins\com_github_MitjaNemec_PlaceFootprints\place_footprints.py", line 436, in replicate_fp_text_items
+    "Source module: " + src_fp + " has different number of text items (" + repr(len(src_fp_text_items))
+TypeError: can only concatenate str (not "Footprint") to str
