@@ -105,7 +105,7 @@ Feature Requests and Bug Reports are most welcome :)
 
 | Port Category          | Quantity                | Details                                  | Current Rating (Max Unless Notified)         |
 |------------------------|-------------------------|------------------------------------------|----------------------------------------------|
-| Power Input            | 1                       | 6-in-1;                                  | 60A Total: 20A BED, 20A Motors, 20A Heaters  |
+| Power Input            | 1                       | 6-in-1; Min: 12V, Max - 24V              | 60A Total: 20A BED, 20A Motors, 20A Heaters  |
 | Steppers               | 5 (+1)                  | 2 Ports for Z Stepper                    | 20A                                          |
 | Smart Steppers Port    | 5 (+1)                  |                                          | 20A                                          |
 | Heaters                | 3                       |                                          | 20A                                          |
