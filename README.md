@@ -189,7 +189,7 @@ Every aspect of SmartPrintCoreH7x reflects a commitment to quality, flexibility,
 3. Custom 3D Printed casing is under development and evaluation, and is expected to release by end of May 2024.
 4. The Klipper Configuration files are minimal, and will require some modifications to fit your use case, reach out to us whenever in doubt.
 5. Feel Free to reach out to our discord server for any queries related to integration, development and production.
-6. You can also send us feasture requests that you'd like to see in the next versions of the board.
+6. You can also send us feature requests that you'd like to see in the next versions of the board.
 
 # Disclaimer
 
