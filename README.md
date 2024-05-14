@@ -1,4 +1,4 @@
-<a href="https://discord.gg/R7YNRcsUsk"><img src="https://img.shields.io/discord/1230525222135005276.svg" alt="Discord"> </a>
+<a href="https://discord.gg/xWGaHd83Hs"><img src="https://img.shields.io/discord/1230525222135005276.svg" alt="Discord"> </a>
 
 # SmartPrintCoreH7x
 
