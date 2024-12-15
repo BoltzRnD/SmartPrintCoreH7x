@@ -129,7 +129,7 @@ Feature Requests and Bug Reports are most welcome :)
 
 
 ## Buy From
-1. Boltz R&D - Contact us at info@boltzrnd.com
+1. Boltz R&D - Contact us at info@boltzrnd.com or Buy Directly from https://www.boltzrnd.com
 2. -- More to Come --
 
 Interested in becoming a listed manufacturer? Reach out to us at info@boltzrnd.com to add your store link here.
