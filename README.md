@@ -19,6 +19,7 @@
 Contact - info@boltzrnd.com
 
 # SmartPrintCoreH7x
+### Now Available to Buy from <a href="https://boltzrnd.com">Boltz R&D Store</a> , We are Shipping Globally!
 
 ![SmartPrintCoreH7x](Media//SmartPrintCoreH7x.png)
 
