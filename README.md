@@ -146,7 +146,7 @@ SmartPrintCoreH7x was born out of a combination of long commute hours and a rene
 
 ### Why It Was Created
 The motivation behind SmartPrintCoreH7x is rooted in both personal need and a broader vision for the 3D printing community:
-- **High-Speed Performance**: Designed to handle extremely high printing speeds of 3000 mm/s or more.
+- **High-Speed Performance**: Designed to handle extremely high printing speeds of 300 mm/s or more.
 - **Unmatched Control**: Providing complete control over the hardware, allowing for extensive customization and modification at any time to meet evolving needs, for any organization and individuals.
 - **Reliable and Easy Connections**: To eliminate common issues with connectivity in intensive printing operations.
 - **Open Source Commitment**: Ensuring the hardware remains open and accessible, allowing anyone to modify and improve upon the design without restriction.
