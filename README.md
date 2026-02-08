@@ -18,6 +18,9 @@
 
 Contact - info@boltzrnd.com
 
+# Contribute
+I am looking for contributors and Open source organisations to maintain, expand and customize the design and sources for a voron 2.4 or similar next gen machines. being stuck in other work get me little to no time to make this project go forward for open source.
+
 # SmartPrintCoreH7x
 ### Now Available to Buy from <a href="https://boltzrnd.com">Boltz R&D Store</a> , We are Shipping Globally!
 
